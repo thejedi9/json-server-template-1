@@ -1,52 +1,89 @@
 {
-  "toys": [
+  "Insects": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "title": "Bee",
+      "image": "https://www.shutterstock.com/image-photo/macro-bumble-bee-collecting-pollen-blue-1654301779",
+      "Symbol": "Sweetness of Life!",
+      "Spirit": "A Bee buzzes in as your Spirit Insect to remind you to trust in miracles. As your Power Insect- Call on the Bee when you are manifesting Abundance! Bees are a Totem for those who wish for all living things to co-exist in peace & love. Bee(s) appearing in your dreams may portend of a sweet ending to a community project. Are you being called to a role of humble service?", 
+      "link": "https://whatismyspiritanimal.com/spirit-totem-power-animal-meanings/insects/bee-symbolism-meaning"
+     
     },
+    
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "title": "Butterfly",
+      "image": "https://www.shutterstock.com/image-photo/blue-butterfly-fly-morning-nature-113087269",
+      "Symbol": "Vibrantly living each moment to the fullest!",
+      "Spirit": "As your spirit guide, the butterfly dances in when metamorphosis has begun! Those who are in tune with the ancient wisdom of their ancestors - this is your totem. The Butterfly is your Power Insect to call when you need help gracefully navigating a mayor transition. Appearing in dreams, they foretell a time of change to which you need to pay attention. Accept the growth opportunity before you with open arms!",  
+      "link": "https://whatismyspiritanimal.com/spirit-totem-power-animal-meanings/insects/butterfly-symbolism-meaning/"
+   
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "title": "Firefly",
+      "image": "https://www.shutterstock.com/image-photo/night-firefly-light-778944973",
+      "Symbol": "Wonder & Illumination",
+      "Spirit": "When Firefly enters your life, be ready for a little light-hearted magic coming your way. If this is your Totem, you have a natural magical aptitude and a calling to explore the mystical arts. Call on Firefly as a power animal when you need creative inspiration. Dreaming of Firefly symbolizes tiny matters that you let “bug” you. It may also be a sudden flash of insight or mystical energy.",  
+      "link": "https://whatismyspiritanimal.com/spirit-totem-power-animal-meanings/insects/firefly-symbolism-meaning/"
+     
+      
+ 
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "title": "Dragonfly",
+      "image": "https://www.shutterstock.com/image-photo/dragonfly-558603178",
+      "Symbol": "Transformation",
+      "Spirit": "Restores lightness in spirit & emotions. When a Dragonfly jets in as your spirit animal - its time to find the positive in all situations. As a totem animal she belongs to those who can comfortable change flight patterns in mid-air. When flexibility and a fresh perspective are needed - call on Dragonfly as you Power insect! In your dreams dragonflies may foretell of change or rebirth. Warning to dig deeper into a situation",  
+      "link": "https://whatismyspiritanimal.com/spirit-totem-power-animal-meanings/insects/dragonfly-symbolism-meaning/"
+  
+  
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "title": "Grasshopper",
+      "image": "https://www.shutterstock.com/image-photo/grasshopper-354150029",
+      "Symbol": "Conscience & Intuition",
+      "Spirit": "When a Grasshopper jumps in as your Spirit Insect - good fortune is on the horizon! He is the totem for those who are confident and speak their truth. Call in Grasshopper as your power insect when you need help developing your 6th sense. Seeing a Grasshopper in your dream means it’s time to listen to your gut for inner guidance.",  
+      "link": "may foretell of change or rebirth. Warning to dig deeper into a situation"
+ 
+      
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "title": "Ladybug",
+      "image": "https://www.shutterstock.com/image-photo/sevenspot-ladybird-on-leaf-nature-1918234823",
+      "Symbol": "Fearlessness & Awareness",
+      "Spirit": "Ladybugs appearing in your life precede a time when your goals begin manifesting in remarkable ways. Folks born with a Ladybug Totem are the joy-bringers - instilling trust in others. Whisper your desires to Ladybug Spirit and trust Her wings to take it to the four corners of creation.Seein a ladybug in your dreams is considered a harbinger of better luck.",  
+      "link": "https://whatismyspiritanimal.com/spirit-totem-power-animal-meanings/insects/ladybug-symbolism-meaning/"
+     
+
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "title": "Spider",
+      "image": "https://www.shutterstock.com/image-photo/spider-latrodectus-tredecimguttatus-sometimes-known-mediterranean-639105847",
+      "Symbol": "Transformation",
+      "Spirit": "When a spider slides in a spirit guide its time to weave your wishes into reality. Apider as a totem insect to those who are the makes and keepers of their own destiny. Invoke Spider as your power insect when you need balance to walk i the world with ease. When Spider comes into your dreams it’s acting as a messenger from the Goddess trying to put your life on the right track.",  
+      "link": "https://whatismyspiritanimal.com/spirit-totem-power-animal-meanings/insects/spider-symbolism-meaning/"
+     
+      
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "title": "Scorpion",
+      "image": "https://www.shutterstock.com/image-photo/scorpion-on-bright-purple-leaf-striped-1389587675",
+      "Symbol": "Protection & Adaptation",
+      "Spirit": "When Scorpion shows as your Spirit Insect it is time to step away from poisonous people and situations. As a totem insect Scorpion is for those who believe in rebirth after death. Invoke the Scorpion as your power insect when you need a dose of determination! Scorpion dreams symbolize a time for you to release old habits and feelings",  
+      "link": "https://whatismyspiritanimal.com/spirit-totem-power-animal-meanings/insects/scorpion-symbolism-meaning/"
+      
     }
-  ]
+  ],
+
+  "comment": [
+    { "id": 1,
+      "content": "this is a comment"
+    }
+  ]  
 }
